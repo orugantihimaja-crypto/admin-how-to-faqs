@@ -1,0 +1,8 @@
+id,name,programId,batchId,startDate,endDate,minStudents,maxStudents
+6,MERN - Ramkumar Sir,8,5,,,0,200
+9,CSE - A,11,8,,,0,0
+11,Section 1,13,11,,,0,60
+12,AI,16,14,,,0,60
+29,AI BUILD,8,5,,,20,60
+31,FAQ Demo Section A,36,34,,,1,10
+33,Academic FAQ Section A Updated,37,35,,,5,35

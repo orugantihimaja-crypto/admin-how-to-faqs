@@ -1,0 +1,8 @@
+id,name,capacity,roomType,departmentId,description
+4,room 1,50,CLASSROOM,16,
+5,room 2,100,SEMINAR_HALL,13,Ac room
+6,room3,50,LAB,13,powerloom
+7,room 4,50,CLASSROOM,18,
+20,AI BUILD,50,LECTURE_HALL,12,event in lecture hall
+21,FAQ Demo Training Room,10,CLASSROOM,45,FAQ Demo training room for isolated scheduling screenshots.
+22,Academic FAQ Training Hall Updated,45,LECTURE_HALL,47,Training hall for the NSRIT academic setup walkthrough.
